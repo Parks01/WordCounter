@@ -1,0 +1,9 @@
+sing Microsoft.AspNetCore.Mvc;
+using WordAndCounter.Models;
+using System.Collections.Generic;
+using System;
+
+namespace WordAndCounter.Controllers
+{
+  public class HomeController : Controller
+  {
